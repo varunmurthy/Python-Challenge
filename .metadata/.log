@@ -1,0 +1,9 @@
+!SESSION 2012-01-31 21:36:38.730 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2012-01-31 21:39:28.310
+!MESSAGE Invalid preference page path: XML Syntax

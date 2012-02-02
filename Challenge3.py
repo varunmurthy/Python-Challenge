@@ -1,0 +1,1 @@
+f = open('./Challenge3.txt','r')
