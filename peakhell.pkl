@@ -1,0 +1,3 @@
+S'<html>\n<head>\n  <title>peak hell</title>\n  <link rel="stylesheet" type="text/css" href="../style.css">\n</head>\n<body>\n<center>\n<img src="peakhell.jpg"/>\n<br><font color="#c0c0ff">\npronounce it\n<br>\n<peakhell src="banner.p"/>\n</body>\n</html>\n\n<!-- peak hell sounds familiar ? -->\n'
+p0
+.
